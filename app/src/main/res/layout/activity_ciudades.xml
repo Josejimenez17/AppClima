@@ -11,7 +11,7 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="72dp"
+        android:layout_height="49dp"
         android:layout_margin="16dp"
         android:text="@string/texto_bienvenida"
         android:textColor="@color/white"
@@ -40,6 +40,7 @@
         android:layout_height="wrap_content"
         android:text="@string/texto_boton_merida"
         android:textColor="#F134ab" />
+//ciudades
 
     <Button
         android:id="@+id/bTulum"
