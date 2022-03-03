@@ -7,7 +7,7 @@ import android.view.View
 import android.widget.Button
 
 class Ciudades : AppCompatActivity() {
-
+//ciudades
     val TAG = "com.vidamrr.appclima.ciudades.CIUDAD"
 
     override fun onCreate(savedInstanceState: Bundle?) {
